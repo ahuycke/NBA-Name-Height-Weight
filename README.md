@@ -8,3 +8,5 @@ The script works by starting with a link to the per 36 stats for all players in 
 From there, the script gathers data about player name, height (converted to inches), and weight (pounds)
 
 Unfortunately I am not familiar with BeatifulSoup, so that's why the quality of my code is pretty terrible
+
+Additionally, it is important to note that for each player, height and weight are gathereed from the last season which that player was in the league
